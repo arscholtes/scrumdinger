@@ -1,11 +1,5 @@
-//
-//  DailyScrum.swift
-//  Scrumdinger
-//
-//  Created by Alex Scholtes on 9/13/23.
-//
-
 import Foundation
+
 
 struct DailyScrum {
     var title: String

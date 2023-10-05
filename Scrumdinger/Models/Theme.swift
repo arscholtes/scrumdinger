@@ -1,12 +1,5 @@
-//
-//  Theme.swift
-//  Scrumdinger
-//
-//  Created by Alex Scholtes on 9/11/23.
-//
-
-import Foundation
 import SwiftUI
+
 
 enum Theme: String {
     case bubblegum
