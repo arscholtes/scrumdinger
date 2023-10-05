@@ -107,8 +107,6 @@
 				44209FC12AAA2D710037D8C5 /* MeetingView.swift */,
 				44209FC32AAA2D720037D8C5 /* Assets.xcassets */,
 				44209FC52AAA2D720037D8C5 /* Preview Content */,
-				44DB19F32ACE2DCF003F0D97 /* CardView.swift */,
-				44DB19F52ACEB1DB003F0D97 /* TrailingIconLabelStyle.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
@@ -143,6 +141,8 @@
 			children = (
 				44D141F32AAFB56A007C9155 /* Theme.swift */,
 				44D141F52AB1B85B007C9155 /* DailyScrum.swift */,
+				44DB19F32ACE2DCF003F0D97 /* CardView.swift */,
+				44DB19F52ACEB1DB003F0D97 /* TrailingIconLabelStyle.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";

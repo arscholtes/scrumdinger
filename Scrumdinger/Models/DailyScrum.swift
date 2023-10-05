@@ -25,4 +25,4 @@ extension DailyScrum {
                    lengthInMinutes: 5,
                    theme: .poppy)
     ]
-}
+} 
