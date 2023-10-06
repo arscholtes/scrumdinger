@@ -18,6 +18,38 @@
             endingLineNumber = "12"
             landmarkName = "body"
             landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "375C0775-2B63-4001-91F4-6383DE507F82 - fcc81080fea55563"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Scrumdinger.MeetingView.body.getter : some"
+                  moduleName = "Scrumdinger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/onyx/Developer/Scrumdinger/Scrumdinger/MeetingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "375C0775-2B63-4001-91F4-6383DE507F82 - 6fe1a5d2c6af1bb1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.ProgressView&lt;SwiftUI.EmptyView, SwiftUI.EmptyView&gt;, SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of SwiftUI.View.accessibilityElement(children: SwiftUI.AccessibilityChildBehavior) -&gt; some&gt;&gt;.0, SwiftUI.AccessibilityAttachmentModifier&gt;, &lt;&lt;opaque return type of SwiftUI.InsettableShape.strokeBorder(lineWidth: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Spacer, SwiftUI.ModifiedContent&lt;SwiftUI.Button&lt;SwiftUI.Image&gt;, SwiftUI.AccessibilityAttachmentModifier&gt;)&gt;&gt;)&gt; in Scrumdinger.MeetingView.body.getter : some"
+                  moduleName = "Scrumdinger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/onyx/Developer/Scrumdinger/Scrumdinger/MeetingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "700">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -34,6 +66,38 @@
             endingLineNumber = "15"
             landmarkName = "body"
             landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "4DD75502-31F6-482B-B35D-770CBE3ACBE4 - d81aa9dc7cfc55f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Label&lt;SwiftUI.Text, SwiftUI.Image&gt;)&gt;&gt;, SwiftUI.Spacer, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Label&lt;SwiftUI.Text, SwiftUI.Image&gt;)&gt;&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.ProgressView&lt;SwiftUI.EmptyView, SwiftUI.EmptyView&gt;, SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of SwiftUI.View.accessibilityElement(children: SwiftUI.AccessibilityChildBehavior) -&gt; some&gt;&gt;.0, SwiftUI.AccessibilityAttachmentModifier&gt;, &lt;&lt;opaque return type of SwiftUI.InsettableShape.strokeBorder(lineWidth: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Spacer, SwiftUI.ModifiedContent&lt;SwiftUI.Button&lt;SwiftUI.Image&gt;, SwiftUI.AccessibilityAttachmentModifier&gt;)&gt;&gt;)&gt; in Scrumdinger.MeetingView.body.getter : some"
+                  moduleName = "Scrumdinger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/onyx/Developer/Scrumdinger/Scrumdinger/MeetingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "4DD75502-31F6-482B-B35D-770CBE3ACBE4 - 2dbe9ba12eff4c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Label&lt;SwiftUI.Text, SwiftUI.Image&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Label&lt;SwiftUI.Text, SwiftUI.Image&gt;)&gt;&gt;, SwiftUI.Spacer, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Label&lt;SwiftUI.Text, SwiftUI.Image&gt;)&gt;&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.ProgressView&lt;SwiftUI.EmptyView, SwiftUI.EmptyView&gt;, SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of SwiftUI.View.accessibilityElement(children: SwiftUI.AccessibilityChildBehavior) -&gt; some&gt;&gt;.0, SwiftUI.AccessibilityAttachmentModifier&gt;, &lt;&lt;opaque return type of SwiftUI.InsettableShape.strokeBorder(lineWidth: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Spacer, SwiftUI.ModifiedContent&lt;SwiftUI.Button&lt;SwiftUI.Image&gt;, SwiftUI.AccessibilityAttachmentModifier&gt;)&gt;&gt;)&gt; in Scrumdinger.MeetingView.body.getter : some"
+                  moduleName = "Scrumdinger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/onyx/Developer/Scrumdinger/Scrumdinger/MeetingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "260">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
