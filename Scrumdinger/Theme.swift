@@ -8,16 +8,16 @@ enum Theme: String {
     case lavender
     case magenta
     case navy
-    case orange
     case oxblood
     case periwinkle
-    case poppy
     case purple
     case seafoam
     case sky
     case tan
     case teal
     case yellow
+    case orange
+    case poppy
     
     var accentColor: Color {
         switch self {
