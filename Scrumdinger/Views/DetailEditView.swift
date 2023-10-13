@@ -7,6 +7,13 @@ struct DetailEditView: View {
     var body: some View {
         Form {
             Section(header: Text("Meeting Info")) {
+                HStack {
+                    Slider(value: $scrum.lengthInMinutesAsDouble, in: 5...30, step: 1) {
+                        Text("Length")
+                    }
+                    Spacer()
+                    Text("\(scrum.lengthInMinutes) minutes")
+                }
             }
         }
     }
