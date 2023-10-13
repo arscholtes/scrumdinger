@@ -1,8 +1,10 @@
 import SwiftUI
 
+
 struct DetailView: View {
     let scrum: DailyScrum
-    
+
+
     var body: some View {
         List {
             Section(header: Text("Meeting Info")) {
@@ -13,6 +15,7 @@ struct DetailView: View {
                 }
                 HStack {
                     Label("Length", systemImage: "clock")
+                    Spacer()
                     Text("\(scrum.lengthInMinutes) minutes")
                 }
                 .accessibilityElement(children: .combine)
@@ -37,16 +40,6 @@ struct DetailView: View {
     }
 }
 
-extension DailyScrum {
-    struct Attendee: Identifiable {
-        let id: UUID
-        var name: String
-        init(id: UUID = UUID(), name: String) {
-            self.id = id
-            self.name = name
-        }
-    }
-}
 
 struct DetailView_Previews: PreviewProvider {
     static var previews: some View {
